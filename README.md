@@ -7,8 +7,6 @@ I am a Computer Science student at Instituto Mauá de Tecnologia, always eager t
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpPMsGDGBpJKsmNhjlFvpgZRKTNXNjSrgVKmWZZSvvGtcMfnJstQPsTCFlpJzsplWlqbb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pietrop._/)
 
-![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroMaffessoni&show_icons=true&theme=tokyonight)
-
 ### Principais Tecnologias
 
 <div style="display: inline_block"><br/>
