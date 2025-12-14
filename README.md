@@ -20,7 +20,7 @@ I am a Computer Science student at Instituto Mauá de Tecnologia, always eager t
 </table>
 
 ### Contato:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-maffessoni-607432209/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-maffessoni/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpPMsGDGBpJKsmNhjlFvpgZRKTNXNjSrgVKmWZZSvvGtcMfnJstQPsTCFlpJzsplWlqbb)
 
 ### Principais Tecnologias:
