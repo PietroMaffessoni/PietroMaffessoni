@@ -6,8 +6,10 @@ I am a Computer Science student at Instituto Mauá de Tecnologia, always eager t
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-maffessoni-607432209/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpPMsGDGBpJKsmNhjlFvpgZRKTNXNjSrgVKmWZZSvvGtcMfnJstQPsTCFlpJzsplWlqbb)
 
-### Principais Tecnologias
+### Git Status:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroMaffessoni&show_icons=true&theme=midnight-purple) 
 
+### Principais Tecnologias
 <div style="display: inline_block"><br/>
     <img alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt= "python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
