@@ -2,23 +2,6 @@
 
 I am a Computer Science student at Instituto Mauá de Tecnologia, always eager to learn more.
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PietroMaffessoni&theme=midnight-purple&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroMaffessoni&layout=compact&langs_count=7&theme=midnight-purple"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ### Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-maffessoni/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpPMsGDGBpJKsmNhjlFvpgZRKTNXNjSrgVKmWZZSvvGtcMfnJstQPsTCFlpJzsplWlqbb)
